@@ -1,4 +1,4 @@
-### Soeon Park 🇰🇷
+### Soeon Park | 🇰🇷
 #### Master's Student in Computer Science
 #### Interested in NLP and Machine Learning
 
