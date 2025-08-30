@@ -1,4 +1,6 @@
-### Student who Studying Computer Science at College
+### Soeon Park 🇰🇷
+#### Master's Student in Computer Science
+#### Interested in NLP and Machine Learning
 
 <!--
 **ParkSoeon/ParkSoeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
